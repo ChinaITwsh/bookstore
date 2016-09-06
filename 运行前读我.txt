@@ -1,0 +1,2 @@
+【bookstore数据库】文件引入前将文件名改为【bookstore】
+如果引入项目提示错误，则将javassist-3.7.ga.jar、mchange-commons-java-0.2.3.4.jar、sqljdbc4.jar包引入，更换本机jre库。
